@@ -50,3 +50,5 @@ print(sample_url[7:])
 
 #Print URL without the http:// or the top level domain
 print(sample_url[7:-4])
+
+#test code added for commit

@@ -3,7 +3,7 @@
 #lets say we want a list of courses
 
 courses = ['History','Math','Physics','CompSci']
-print(courses)
+print('The list of courses is ', courses)
 
 #how many values in the list
 print('The number of courses is',len(courses))
